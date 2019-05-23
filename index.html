@@ -40,17 +40,15 @@
 		<main role="main" property="mainContentOfPage" class="container">
             <h1>Testing training</h1>
 
-            <table class="wb-tables table table-striped table-hover" id="dataset-filter" aria-live="polite" data-wb-tables='{
-                "bDeferRender": true,
-                "ajaxSource": "./data/wscoe.json",
-                "order": [5, "desc"],
+            <table class="wb-tables table table-striped table-hover wb-tables-filter" data-wb-tables='{
+                "ajaxSource": "data/wscoe.json",
                 "columns": [
                     { "data": "Audience" },
                     { "data": "Subject" },
                     { "data": "Type" },
                     { "data": "Course" },
                     { "data": "URL", "visible": false },
-                    { "data": "Description" },
+                    { "data": "Description", "visible": false },
                     { "data": "Duration" },
                     { "data": "Date Published" },
                     { "data": "Level" },
@@ -62,7 +60,8 @@
         <th>Audience</th>
         <th>Subject</th>
         <th>Type</th>
-        <th>Course</th>
+		<th>Course</th>
+		<th>URL</th>
         <th>Description</th>
         <th>Duration</th>
         <th>Date Published</th>
