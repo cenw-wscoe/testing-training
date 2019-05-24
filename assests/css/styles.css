@@ -1,1 +1,6 @@
 /* Custom styles */
+
+h2 .training-type:before {
+    white-space: pre;
+    margin-left: 3px;
+}

@@ -13,6 +13,7 @@
 		<script src="https://ssl-templates.services.gc.ca/app/cls/WET/gcweb/v4_0_31/cdts/compiled/soyutils.js"></script>
 		<script src="https://ssl-templates.services.gc.ca/app/cls/WET/gcweb/v4_0_31/cdts/compiled/wet-en.js"></script>
 		<!-- Write closure template -->
+		<link rel="stylesheet" href="./assests/css/styles.css">
 		<script>
 			document.write(wet.builder.refTop({
                 "cdnEnv" : "esdcprod",
@@ -44,18 +45,18 @@
                         {"selector" : "a", "value" : "/Title"},
                         {"selector":"a", "attr" : "href", "value" : "/URL"},
                         {"selector" : ".training-type", "value" : "/Type"},
-                        {"selector" : ".training-decription", "value" : "/Description"},
+                        {"selector" : ".training-decription", "value" : "/Desvcxvcription"},
                         {"selector" : "ul", "value" : "/Subject", "queryall" : "li"}
                     ]
                 }'>
             <template>
                 <section class="col-md-4">
-                    <h2 class="h4"><a href="#">{TITLE}</a></h2>
-                    <p class="training-type">{TYPE}</p>
+					<h2 class="h4"><a href="#">{TITLE}</a></h2>
+					<p class="label label-default training-type"></p>
                     <p class="training-decription">{DESCRIPTION}</p>
-                    <ul>
+                    <ul class="list-unstyled">
                     <template>
-                        <li></li>
+                        <li class="label label-primary"></li>
                     </template>
                     </ul>
                 </section>
