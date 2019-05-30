@@ -45,20 +45,14 @@
                         {"selector" : "a", "value" : "/Title"},
                         {"selector":"a", "attr" : "href", "value" : "/URL"},
                         {"selector" : ".training-type", "value" : "/Type"},
-                        {"selector" : ".training-decription", "value" : "/Mandatory"},
-                        {"selector" : "ul", "value" : "/Subject", "queryall" : "li"}
+                        {"selector" : ".training-mandatory", "value" : "/Mandatory"}
                     ]
                 }'>
             <template>
                 <section class="col-md-4">
 					<h2 class="h4"><a href="#">{TITLE}</a></h2>
 					<p class="label label-default training-type"></p>
-                    <p class="label label-success training-decription"></p>
-                    <ul class="list-unstyled">
-                    <template>
-                        <li class="label label-primary"></li>
-                    </template>
-                    </ul>
+                    <p class="label label-success training-mandatory"></p>
                 </section>
             </template>
         </div>
