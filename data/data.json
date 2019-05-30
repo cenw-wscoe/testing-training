@@ -1,0 +1,289 @@
+[{
+        "Title": "Web Content Accessibility Guidelines (WCAG) 2.1",
+        "Type": "Advanced",
+        "URL": "https://www.w3.org/TR/WCAG21/",
+        "Description": "This is the bible of Web accessibility. We perform assessment based on this.",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": "Mandatory"
+    },
+    {
+        "Title": "Standard on Web Accessibility",
+        "Type": "Intermediate",
+        "URL": "https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601#",
+        "Description": "Ensures the uniform application of a high level of web accessibility across Government of Canada websites and web applications.",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": "Mandatory"
+    },
+    {
+        "Title": "Standard on Web Usability",
+        "Type": "Intermediate",
+        "URL": "https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227",
+        "Description": "Describes the usability requirements for Government of Canada websites, including requirements for domain names, terms, conditions and archiving online web content, as well as common page layouts and visual design elements.",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": "Mandatory"
+    },
+    {
+        "Title": "Standard on Web Interoperability",
+        "Type": "Intermediate",
+        "URL": "https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875",
+        "Description": "Improves Canadians� web experience by using technologies that support mobile devices and by making information technology easier to use in order to find government information.",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": "Mandatory"
+    },
+    {
+        "Title": "Standard on Optimizing Websites and Applications for Mobile Devices",
+        "Type": "Intermediate",
+        "URL": "https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088",
+        "Description": "Sets out requirements for ensuring the optimization of Government of Canada websites and applications with respect to mobile devices, and permits only the justifiable use of device-based mobile applications.",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": "Mandatory"
+    },
+    {
+        "Title": "WAI-ARIA",
+        "Type": "Advanced",
+        "URL": "https://www.w3.org/WAI/standards-guidelines/aria/",
+        "Description": "This page introduces the WAI-ARIA, the Accessible Rich Internet Applications suite of web standards.",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": "Mandatory"
+    },
+    {
+        "Title": "Accessibility for Web Design ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/accessibility-for-web-design",
+        "Description": "Are you doing everything you can to make sure your sites are accessible and easy to use? Learn practical accessibility techniques to ensure your web designs can be viewed and used by everyone. Internationally recognized accessibility expert Derek Featherstone walks through examples of common web interaction flows, and then steps through considerations and tactical strategies for each component, to assure that people with disabilities can easily complete those tasks. Learn the proper use of color, contrast, and motion, and find out how to design keyboard interactions and touch interfaces; incorporate images, sound, and video; design accessible forms; structure content at the tag level; and balance responsive design with accessibility.",
+        "Duration": "2h 4m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "HTML5: Structure, Syntax, and Semantics",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/html5-structure-syntax-and-semantics",
+        "Description": "Gain a deeper understanding of HTML5, and learn how to create richer, more meaningful webpages with HTML5 structural tags and enhanced semantic markup. In this course, senior author James Williamson presents an overview of HTML5, demystifies the language's new tags and attributes, and discusses how browsers parse and display HTML5 content. He'll help you make sure your pages (including elements like navigation) are properly structured and sectioned, and show how to use HTML5's unique features for representing quotes, figures, and dates and times. You'll also discover how to extend meaning and make content more accessible with comments, meta- and microdata, and ARIA roles�elements which lead to better experiences for website visitors and development colleagues alike.",
+        "Duration": "3h 34m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Accessible Video: Caption, Search, and Compliance Strategies",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/accessible-video-caption-search-and-compliance-strategies",
+        "Description": "Ensuring that your video reaches the widest audience possible is essential to its success—and often a legal requirement. In this course, you can learn essential strategies to create closed captions, generate searchable transcripts, and optimize video to make it more accessible. Instructor Rich Harrington explains why accessible video is so important and shares practical techniques that work with all video editing tools. He includes workflows for closed captioning with programs such as Adobe Premiere Pro, Transcriptive, and Final Cut Pro X. Plus, learn strategies to improve discoverability and accessibility on popular video sharing sites like YouTube and Facebook.",
+        "Duration": "2h 36m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "HTML Essential Training",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/html-essential-training",
+        "Description": "HTML is the programming language that powers the web. And like any language, once you master it, you can begin to create your own content, whether that's simple websites or complex web applications. This course provides an in-depth look at the essentials: the syntax of HTML and best practices for writing and editing your code. Senior staff author James Williamson reviews the structure of a typical HTML document, and shows how to section pages and format your content with HTML. Plus, learn how to create links and lists, and find out how HTML works with CSS and JavaScript to create rich, engaging user experiences. So open a text editor, watch these videos, and begin learning to author HTML the right way.",
+        "Duration": "5h 54m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Git Essential Training ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/git-essential-training",
+        "Description": "The course shows how to use Git, the popular open-source version control software, to manage changes to source code and text files. Using a step-by-step approach, author Kevin Skoglund presents the commands that enable efficient code management and reveals the fundamental concepts behind version control systems and the Git architecture. Discover how to track changes to files in a repository, review previous edits, and compare versions of a file; create branches to test new ideas without altering the main project; and merge those changes into the project if they work out. The course begins by demonstrating version control in a single-user, standalone context, before exploring how remote repositories allow users to collaborate on projects effectively.",
+        "Duration": "6h 25m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Learning Git and GitHub ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/learning-git-and-github",
+        "Description": "Version control is an essential skill for developers to master, and Git is by far the most popular version control system on the web. In this fast-paced course, author Ray Villalobos shows you how to install Git and use the fundamental commands you need to work with Git projects: moving files, managing logs, and working with branches. Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects. Get started now.",
+        "Duration": "1h 21m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Learning Visual Studio Code ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/learning-visual-studio-code",
+        "Description": "Visual Studio Code is a lightweight source code editor that boasts the advanced features of an IDE, and runs on Windows, Linux, and macOS. It provides easy access to many extensions for additional features and support for languages like C#, C++, Python, Java, and much more. It comes with support for embedded Git control, debugging, intelligent code completion, code refactoring, and more.",
+        "Duration": "1h 20m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Visual Studio Code for Web Developers ",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/visual-studio-code-for-web-developers",
+        "Description": "A great code editor is a crucial addition to any web developer's arsenal of tools. In this course, learn how to make the most of Visual Studio (VS) Code—the powerful code editor from Microsoft—when working with web-based projects. Joe Marini kicks off the course by taking you through the app's user interface, and showing how to work with its basic editing features. Next, Joe demonstrates how to customize VS Code by configuring preferences, setting your own keyboard shortcuts, and working with snippets. He also explains how to maximize your productivity by installing and managing extensions from the Visual Studio Marketplace. Plus, he discusses how VS Code works with folders and collections of files, helps you understand the IntelliSense feature, and dives into the app's advanced code editing features, such as automatic formatting.",
+        "Duration": "1h 21m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "iOS App Development: Accessibility ",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/ios-app-development-accessibility",
+        "Description": "Millions of users rely on assistive technologies to help them make phone calls, send text messages, and access apps on their mobile devices. By leveraging the various accessibility technologies built into iOS when developing your app, you can help to ensure that everyone—regardless of their needs and abilities—can enjoy the app that you've created. In this course, explore the different accessibility technologies that are built into iOS, and learn how to build apps that all users can access. Follow Kevin Favro as he explains how to audit your app for accessibility problems, and explores various iOS technologies—including VoiceOver, a screen reader that lets you use phone even if you don't see the screen—and other considerations that might prevent someone from effectively using your app.",
+        "Duration": "2h 34m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "GitHub for Web Designers ",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/github-for-web-designers",
+        "Description": "GitHub has become the industry-standard version control and publishing platform for web developers, but it's great for designers too. This course shows web designers how GitHub can dramatically improve their workflow and assist in creating and publishing sites. Senior lynda.com author James Williamson shows how to sign up for an account and install GitHub client and Git, the version control system GitHub is based on. He then shows you how to use Github to work with team members and collaborate with contributors to open-source projects.",
+        "Duration": "3h 56m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Git Intermediate Techniques ",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/git-intermediate-techniques",
+        "Description": "Enhance your Git skillset, and explore intermediate techniques and concepts that can help you work more efficiently with the popular open-source version control software. Instructor Kevin Skoglund shares branch management techniques, like deleting and pruning, and how to use tags to mark important points in the branch history. Learn to use interactive staging to stage small portions of a file, cherry-picking to share commits between branches, patches to share commits with others, and techniques for tracking down problems in your project. Kevin demystifies the rebase command and explains when to choose rebasing over merging.",
+        "Duration": "2h 53m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Git for Teams ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/git-for-teams",
+        "Description": "Development teams transitioning to distributed source control with Git often experience friction when initially adopting the tool. Often, the root cause is related to issues surrounding culture and practices as opposed to a technical learning curve. In this course, Kevin Bowersox covers collaboration strategies for teams using Git, discussing tools and techniques that can help you and your team circumvent the challenges that hinder the delivery of high-quality software. Kevin shares best practices and tips that can help you avoid common pitfalls that often cause teams to veer off track. Learn branching strategies, how to build a continuous integration pipeline, and more.",
+        "Duration": "2h 16m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Learning Node.js ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/learning-node-js-2",
+        "Description": "Node.js is a platform built on the Chrome JavaScript runtime that can help you build fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient—perfect for data-intensive real-time applications that run across distributed devices. In this course, learn the basics of Node.js, and discover how to build a simple application. Alexander Zanfir goes into topics such as npm, reading and writing files, and Node.js frameworks. He covers Node.js features, such as async/await, and dives into popular web development concepts. Alexander also walks through how to build a demo chat app from start to finish.",
+        "Duration": "1h 57m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Learning webpack 4 ",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/learning-webpack-4-2",
+        "Description": "webpack has become a key standard among front-end development tools. A module bundler built for modern JavaScript applications, webpack is exploding in popularity due to its many configuration options. webpack 4 expands on the original promise of task, code, and dependency management with cleaner syntax, simpler configuration, and thorough support for ES6. In this course, instructor Eve Porcello covers the basics of this versatile tool. Discover how to install webpack, run a build, and edit the config file to facilitate automation. Find out how to use loaders to run tasks and process files such as CSS and inline images. Plus, Eve demos webpack plugins for managing tasks such as code splitting.",
+        "Duration": "41m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "TypeScript for Node.js Developers ",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/typescript-for-node-js-developers",
+        "Description": "As your development needs grow with your enterprise, you need better tools and syntax when working with Node.js. This is where using TypeScript with Node.js can be a perfect next step. TypeScript is a superset of JavaScript that offers optional static type checking, as well as support for the latest JavaScript features. In this course, Emmanuel Henri helps Node.js developers quickly get up to speed with TypeScript as he steps through how to best leverage this popular language in Node.js applications. To begin, he shows how to set up TypeScript and familiarizes you with its file conventions. He then discusses how to use types in Node.js, leverage TypeScript tools to organize your application, and use iterators and decorators. To wrap up, he shares resources that can help you further explore all that TypeScript has to offer.",
+        "Duration": "1h 2m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "JavaScript Essential Training ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/javascript-essential-training-3",
+        "Description": "JavaScript is a scripting language of the web. As the web evolves from a static to a dynamic environment, technology focus is shifting from static markup and styling—frequently handled by content management systems or automated scripts—to dynamic interfaces and advanced interaction. Once seen as optional, JavaScript is now becoming an integral part of the web, infusing every layer with its script. Through practical examples and mini-projects, this course helps you build your understanding of JavaScript piece by piece, from core principles like variables, data types, conditionals, and functions through advanced topics including loops, closures, and DOM scripting. Along the way, you will also be introduced to some ES6 and the basics of JavaScript libraries.",
+        "Duration": "5h 32m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "JavaScript: Async ",
+        "Type": "Intermediate",
+        "URL": "https://www.linkedin.com/learning/javascript-async",
+        "Description": "Asynchronous code is the foundation of most modern web experiences. It allows programs to switch between tasks and juggle multiple requests. However, without a thorough understanding of asynchronous programming, developers can write bloated code that works against the architecture of the web. Join Sasha Vodnik in this course, which explores asynchronous approaches to JavaScript programming using callbacks, promises, and the async/await operators in ES6. Learn what's going on line by line in your code, revisit basic structures like XMLHttpRequest (XHR) objects and setTimeout(), and discover how to use the new syntax options in JavaScript to tackle any coding challenge.",
+        "Duration": "1h 11m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Learning ECMAScript 6 ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/learning-ecmascript-6",
+        "Description": "Meet the future of JavaScript: ECMAScript 6. This short course takes a look at the latest features of ECMAScript 6 (aka ES6) and how these changes are making JavaScript even more powerful and concise. Eve Porcello reviews the new keywords and function/object syntax and shows how the new class syntax can be used with React, the popular JavaScript library. You'll also review the ES6 compiling tool Babel, and use Babel to make your ES6 code compatible with modern browsers.",
+        "Duration": "2h 4m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Sass Essential Training ",
+        "Type": "Beginner",
+        "URL": "https://www.linkedin.com/learning/sass-essential-training",
+        "Description": "Learn the fundamentals of Syntactically Awesome Stylesheets (Sass), a modern web development language that helps you write CSS better, faster, and with more advanced features. Ray Villalobos shows you the best way to install Sass and work with its main features: variables, nesting, partials, and mixins. Plus, learn how to use SassScript to create complex functions from Sass lists and control statements.",
+        "Duration": "2h 6m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "CSS: Advanced Layouts with Grid ",
+        "Type": "Advanced",
+        "URL": "https://www.linkedin.com/learning/css-advanced-layouts-with-grid",
+        "Description": "CSS layouts are becoming less of a puzzle. After decades of hacking CSS to make multicolumn layouts, the CSS Grid Layout module makes page layout predictable. In this course, take a step back from traditional layout models, and learn how to take full advantage of the new capabilities of CSS Grid to build interfaces that are attractive, accessible, and responsive. Join Morten Rand-Hendriksen as he walks through how to create full-bleed layouts, multicolumn layouts, and advanced card-based layouts. He demonstrates how to create dynamic responsive grids that adjust to their available viewport space.",
+        "Duration": "3h 21m",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Using Accessibility to Improve SEO",
+        "Type": "",
+        "URL": "https://www.linkedin.com/learning/using-accessibility-to-improve-seo",
+        "Description": "",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Creating Accessible PDFs",
+        "Type": "",
+        "URL": "https://www.linkedin.com/learning/creating-accessible-pdfs",
+        "Description": "",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "WordPress:  Accessibility ",
+        "Type": "",
+        "URL": "https://www.linkedin.com/learning/wordpress-accessibility/next-steps?u=70937538",
+        "Description": "",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "UX Foundations:  Accessibility",
+        "Type": "",
+        "URL": "https://www.linkedin.com/learning/ux-foundations-accessibility",
+        "Description": "",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Accessibility for Web Design ",
+        "Type": "",
+        "URL": "https://www.linkedin.com/learning/accessibility-for-web-design",
+        "Description": "",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": ""
+    },
+    {
+        "Title": "Government of Canada Digital Playbook",
+        "Type": "Beginner",
+        "URL": "https://canada-ca.github.io/digital-playbook-guide-numerique/en/overview.html",
+        "Description": "Provides practical and detailed guidance to assist the Government of Canada in digital transformation and augmented service delivery, including becoming more agile, open and user-focused. Includes task-specific views and interactive features to make it easier to find relevant guidance and to apply it to day-to-day work.",
+        "Duration": "",
+        "Comments": "",
+        "Mandatory": ""
+    }
+]

@@ -39,13 +39,13 @@
             <h1>WS CoE training</h1>
         <div class="row">
 
-                <div class="wb-filter" data-wb-json='{
-                    "url" : "data/wscoe.json#",
+                <div class="wb-filter wb-eqht" data-wb-json='{
+                    "url" : "data/data.json#",
                     "mapping" : [
                         {"selector" : "a", "value" : "/Title"},
                         {"selector":"a", "attr" : "href", "value" : "/URL"},
                         {"selector" : ".training-type", "value" : "/Type"},
-                        {"selector" : ".training-decription", "value" : "/Level"},
+                        {"selector" : ".training-decription", "value" : "/Mandatory"},
                         {"selector" : "ul", "value" : "/Subject", "queryall" : "li"}
                     ]
                 }'>
